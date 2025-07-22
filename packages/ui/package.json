@@ -8,7 +8,6 @@
     "dist"
   ],
   "exports": {
-
     "./*": "./dist/*.js",
     "./styles.css": "./styles.css"
   },
@@ -28,7 +27,6 @@
     "@repo/eslint-config": "*",
     "@repo/tailwind-config": "^0.0.0",
     "@repo/typescript-config": "*",
-    "@repo/ui": "^0.0.0",
     "@tailwindcss/cli": "^4.1.5",
     "@types/react": "^19.1.0",
     "eslint": "^9.31.0",
